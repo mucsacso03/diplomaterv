@@ -1,0 +1,13 @@
+box2d-py
+gym
+nevergrad
+pybullet
+ray
+seaborn
+tensorboard
+torch
+trimesh
+gltflib
+pyglet==1.4.10
+opencv-python
+carnivalmirror
